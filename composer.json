@@ -3,7 +3,8 @@
     "require": {
         "silex/silex": "^1.3",
         "twig/twig": ">=1.8,<2.0-dev",
-	"symfony/twig-bridge": "*"
+	"symfony/twig-bridge": "~2.3",
+	"twig/extensions": "~1.0"
     },
 	"autoload": {
         "psr-0": {"projecthome": "src/"}
